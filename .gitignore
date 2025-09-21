@@ -1,2 +1,2 @@
-*.swp
-*/input/input.txt
+*.sw[a-z]
+**/input/input.txt
