@@ -26,4 +26,3 @@ Alternatively you can do this for _all_ days at once by running `go test ./... -
 | Day 02 | Part 1 (final)      | took 920.148µs       |
 ...
 ```
->>>>>>> adventofcode/2024/master
