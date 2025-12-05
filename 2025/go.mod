@@ -1,3 +1,5 @@
 module github.com/RyanConnell/adventocode/2025
 
-go 1.23
+go 1.24.11
+
+require golang.org/x/exp v0.0.0-20251125195548-87e1e737ad39
